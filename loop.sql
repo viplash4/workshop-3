@@ -3,7 +3,7 @@ DECLARE
     rand_gdp       NUMBER;
     rand_rating    NUMBER;
 BEGIN
---Заповнення початкових даних для таблиць states та full_city_address
+--РІСЃС‚Р°РІР»СЏС”РјРѕ РїРѕС‡Р°С‚РєРѕРІС– РґР°РЅС– РґР»СЏ С‚Р°Р±Р»РёС†СЊ states С‚Р° full_city_address
     INSERT INTO states ( city_state ) VALUES ( 'Alabama' );
 
     INSERT INTO states ( city_state ) VALUES ( 'Alaska' );
@@ -44,7 +44,7 @@ BEGIN
         'California'
     );
 
---цикл Autaga,Alabama
+--С†РёРєР» РґР»СЏ Autaga,Alabama
 
     FOR i IN 1..5 LOOP
         rand_gdp := dbms_random.value(1, 10000);
