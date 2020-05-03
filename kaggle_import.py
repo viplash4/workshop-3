@@ -25,7 +25,7 @@ with open(filename) as file:
     reader = csv.reader(file)
     for row in reader:
         line_count += 1 #пропуск першого рядку
-        if line_count == 300:
+        if line_count == 300: #300 щоб не захаращувати сильно графіки + прискорити виконання коду
             break
         if line_count > 1:
             state = row[10]
