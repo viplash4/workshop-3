@@ -1,0 +1,1193 @@
+CITY_NAME,CITY_STATE,STAT_YEAR,CITY_GDP,CITY_RATING
+Autauga,Alabama,2015,1518409,39
+Autauga,Alabama,2016,1526310,4
+Autauga,Alabama,2017,1422078,2
+Autauga,Alabama,2018,1483414,6
+Baldwin,Alabama,2015,5345363,32
+Baldwin,Alabama,2016,5496105,19
+Baldwin,Alabama,2017,5525882,42
+Baldwin,Alabama,2018,5774289,70
+Barbour,Alabama,2015,756590,54
+Barbour,Alabama,2016,742810,18
+Barbour,Alabama,2017,745625,1
+Barbour,Alabama,2018,787425,49
+Bibb,Alabama,2015,358372,95
+Bibb,Alabama,2016,357831,51
+Bibb,Alabama,2017,353859,20
+Bibb,Alabama,2018,364197,4
+Blount,Alabama,2015,824934,18
+Blount,Alabama,2016,783480,93
+Blount,Alabama,2017,813934,88
+Blount,Alabama,2018,849114,18
+Bullock,Alabama,2015,224849,79
+Bullock,Alabama,2016,246072,58
+Bullock,Alabama,2017,233531,18
+Bullock,Alabama,2018,244183,11
+Butler,Alabama,2015,570113,71
+Butler,Alabama,2016,554471,92
+Butler,Alabama,2017,554848,24
+Butler,Alabama,2018,570686,56
+Calhoun,Alabama,2015,3810823,95
+Calhoun,Alabama,2016,3862408,14
+Calhoun,Alabama,2017,3861148,67
+Calhoun,Alabama,2018,3950436,93
+Chambers,Alabama,2015,1793988,2
+Chambers,Alabama,2016,1953597,30
+Chambers,Alabama,2017,1938158,28
+Chambers,Alabama,2018,1941217,98
+Cherokee,Alabama,2015,484118,9
+Cherokee,Alabama,2016,457675,35
+Cherokee,Alabama,2017,461223,60
+Cherokee,Alabama,2018,498013,1
+Chilton,Alabama,2015,799902,23
+Chilton,Alabama,2016,798726,36
+Chilton,Alabama,2017,806179,48
+Chilton,Alabama,2018,837887,2
+Choctaw,Alabama,2015,531136,10
+Choctaw,Alabama,2016,526604,60
+Choctaw,Alabama,2017,505034,30
+Choctaw,Alabama,2018,547773,44
+Clarke,Alabama,2015,806072,79
+Clarke,Alabama,2016,793755,11
+Clarke,Alabama,2017,771341,49
+Clarke,Alabama,2018,784519,20
+Clay,Alabama,2015,320213,78
+Clay,Alabama,2016,315873,27
+Clay,Alabama,2017,323580,28
+Clay,Alabama,2018,339246,93
+Cleburne,Alabama,2015,304126,4
+Cleburne,Alabama,2016,295526,24
+Cleburne,Alabama,2017,284999,32
+Cleburne,Alabama,2018,294019,6
+Coffee,Alabama,2015,1349456,68
+Coffee,Alabama,2016,1375548,84
+Coffee,Alabama,2017,1410365,55
+Coffee,Alabama,2018,1470262,55
+Colbert,Alabama,2015,2814138,17
+Colbert,Alabama,2016,2778239,9
+Colbert,Alabama,2017,2708633,72
+Colbert,Alabama,2018,2755838,100
+Conecuh,Alabama,2015,466177,68
+Conecuh,Alabama,2016,464317,17
+Conecuh,Alabama,2017,456696,65
+Conecuh,Alabama,2018,449646,58
+Coosa,Alabama,2015,164838,43
+Coosa,Alabama,2016,168598,21
+Coosa,Alabama,2017,167226,22
+Coosa,Alabama,2018,177103,35
+Covington,Alabama,2015,1126948,7
+Covington,Alabama,2016,1120631,30
+Covington,Alabama,2017,1134066,29
+Covington,Alabama,2018,1146899,35
+Crenshaw,Alabama,2015,427983,61
+Crenshaw,Alabama,2016,403588,77
+Crenshaw,Alabama,2017,403510,32
+Crenshaw,Alabama,2018,408219,58
+Cullman,Alabama,2015,2479048,87
+Cullman,Alabama,2016,2473561,20
+Cullman,Alabama,2017,2491025,42
+Cullman,Alabama,2018,2548547,93
+Dale,Alabama,2015,2405727,83
+Dale,Alabama,2016,2423899,69
+Dale,Alabama,2017,2459148,59
+Dale,Alabama,2018,2505314,56
+Dallas,Alabama,2015,1186330,35
+Dallas,Alabama,2016,1196803,40
+Dallas,Alabama,2017,1156152,80
+Dallas,Alabama,2018,1174931,42
+DeKalb,Alabama,2015,1728455,36
+DeKalb,Alabama,2016,1621227,86
+DeKalb,Alabama,2017,1688189,35
+DeKalb,Alabama,2018,1768414,81
+Elmore,Alabama,2015,1614849,91
+Elmore,Alabama,2016,1639742,26
+Elmore,Alabama,2017,1653310,100
+Elmore,Alabama,2018,1694188,74
+Escambia,Alabama,2015,1152718,61
+Escambia,Alabama,2016,1162771,69
+Escambia,Alabama,2017,1163160,89
+Escambia,Alabama,2018,1172006,72
+Etowah,Alabama,2015,2741934,96
+Etowah,Alabama,2016,2742949,74
+Etowah,Alabama,2017,2746645,55
+Etowah,Alabama,2018,2803470,99
+Fayette,Alabama,2015,334480,56
+Fayette,Alabama,2016,325660,1
+Fayette,Alabama,2017,327225,31
+Fayette,Alabama,2018,331837,99
+Franklin,Alabama,2015,829741,14
+Franklin,Alabama,2016,802754,2
+Franklin,Alabama,2017,849068,81
+Franklin,Alabama,2018,886031,58
+Geneva,Alabama,2015,505054,67
+Geneva,Alabama,2016,513876,50
+Geneva,Alabama,2017,496140,8
+Geneva,Alabama,2018,519624,47
+Greene,Alabama,2015,255456,84
+Greene,Alabama,2016,245437,84
+Greene,Alabama,2017,225323,99
+Greene,Alabama,2018,235854,81
+Hale,Alabama,2015,280598,14
+Hale,Alabama,2016,291003,92
+Hale,Alabama,2017,285818,54
+Hale,Alabama,2018,280041,91
+Henry,Alabama,2015,312287,42
+Henry,Alabama,2016,308340,6
+Henry,Alabama,2017,320602,18
+Henry,Alabama,2018,327713,53
+Houston,Alabama,2015,4190752,35
+Houston,Alabama,2016,4221379,16
+Houston,Alabama,2017,4238912,48
+Houston,Alabama,2018,4349489,47
+Jackson,Alabama,2015,1420121,100
+Jackson,Alabama,2016,1317412,90
+Jackson,Alabama,2017,1300797,40
+Jackson,Alabama,2018,1319359,89
+Jefferson,Alabama,2015,39503092,80
+Jefferson,Alabama,2016,39475772,33
+Jefferson,Alabama,2017,40567288,46
+Jefferson,Alabama,2018,41774355,30
+Lamar,Alabama,2015,291779,91
+Lamar,Alabama,2016,288955,95
+Lamar,Alabama,2017,289482,12
+Lamar,Alabama,2018,296054,37
+Lauderdale,Alabama,2015,2445200,52
+Lauderdale,Alabama,2016,2402567,96
+Lauderdale,Alabama,2017,2395624,71
+Lauderdale,Alabama,2018,2467086,16
+Lawrence,Alabama,2015,556342,93
+Lawrence,Alabama,2016,518065,2
+Lawrence,Alabama,2017,517319,78
+Lawrence,Alabama,2018,563208,62
+Lee,Alabama,2015,5457975,79
+Lee,Alabama,2016,5702179,50
+Lee,Alabama,2017,5897678,85
+Lee,Alabama,2018,6013577,14
+Limestone,Alabama,2015,3149394,15
+Limestone,Alabama,2016,3223504,76
+Limestone,Alabama,2017,3286233,24
+Limestone,Alabama,2018,3288507,74
+Lowndes,Alabama,2015,414680,60
+Lowndes,Alabama,2016,410956,47
+Lowndes,Alabama,2017,415054,20
+Lowndes,Alabama,2018,413334,85
+Macon,Alabama,2015,437082,45
+Macon,Alabama,2016,437693,88
+Macon,Alabama,2017,427667,65
+Macon,Alabama,2018,437305,26
+Madison,Alabama,2015,19888881,5
+Madison,Alabama,2016,20314558,81
+Madison,Alabama,2017,20825274,21
+Madison,Alabama,2018,21707550,44
+Marengo,Alabama,2015,673931,31
+Marengo,Alabama,2016,678430,98
+Marengo,Alabama,2017,650660,51
+Marengo,Alabama,2018,657507,13
+Marion,Alabama,2015,779032,93
+Marion,Alabama,2016,759279,87
+Marion,Alabama,2017,773143,27
+Marion,Alabama,2018,804250,65
+Marshall,Alabama,2015,2830730,25
+Marshall,Alabama,2016,2864795,29
+Marshall,Alabama,2017,2943251,13
+Marshall,Alabama,2018,3061736,38
+Mobile,Alabama,2015,17548197,47
+Mobile,Alabama,2016,17901624,43
+Mobile,Alabama,2017,17642633,19
+Mobile,Alabama,2018,17882906,17
+Monroe,Alabama,2015,611360,41
+Monroe,Alabama,2016,610770,61
+Monroe,Alabama,2017,610310,95
+Monroe,Alabama,2018,618262,32
+Montgomery,Alabama,2015,12294898,78
+Montgomery,Alabama,2016,12473078,1
+Montgomery,Alabama,2017,12457671,94
+Montgomery,Alabama,2018,12633330,32
+Morgan,Alabama,2015,4665658,23
+Morgan,Alabama,2016,4808714,44
+Morgan,Alabama,2017,4827146,86
+Morgan,Alabama,2018,4980085,72
+Perry,Alabama,2015,203560,84
+Perry,Alabama,2016,198292,63
+Perry,Alabama,2017,191859,71
+Perry,Alabama,2018,183432,97
+Pickens,Alabama,2015,407990,44
+Pickens,Alabama,2016,399004,21
+Pickens,Alabama,2017,389315,78
+Pickens,Alabama,2018,390766,95
+Pike,Alabama,2015,1305018,80
+Pike,Alabama,2016,1327688,1
+Pike,Alabama,2017,1315469,9
+Pike,Alabama,2018,1309102,65
+Randolph,Alabama,2015,438364,33
+Randolph,Alabama,2016,415983,54
+Randolph,Alabama,2017,418763,35
+Randolph,Alabama,2018,427804,42
+Russell,Alabama,2015,1417799,70
+Russell,Alabama,2016,1437492,50
+Russell,Alabama,2017,1427776,56
+Russell,Alabama,2018,1472862,25
+St. Clair,Alabama,2015,1666235,95
+St. Clair,Alabama,2016,1694102,95
+St. Clair,Alabama,2017,1718514,75
+St. Clair,Alabama,2018,1764952,69
+Shelby,Alabama,2015,9434367,100
+Shelby,Alabama,2016,9427502,91
+Shelby,Alabama,2017,9929586,29
+Shelby,Alabama,2018,10317323,32
+Sumter,Alabama,2015,353400,53
+Sumter,Alabama,2016,359431,36
+Sumter,Alabama,2017,335668,35
+Sumter,Alabama,2018,326706,50
+Talladega,Alabama,2015,2820169,39
+Talladega,Alabama,2016,2795690,32
+Talladega,Alabama,2017,2745857,44
+Talladega,Alabama,2018,2840194,79
+Tallapoosa,Alabama,2015,1189686,49
+Tallapoosa,Alabama,2016,1222578,61
+Tallapoosa,Alabama,2017,1146322,51
+Tallapoosa,Alabama,2018,1186139,98
+Tuscaloosa,Alabama,2015,8593630,11
+Tuscaloosa,Alabama,2016,8509273,22
+Tuscaloosa,Alabama,2017,8775197,87
+Tuscaloosa,Alabama,2018,9042556,35
+Walker,Alabama,2015,1942586,25
+Walker,Alabama,2016,1871326,25
+Walker,Alabama,2017,1942619,29
+Walker,Alabama,2018,2058416,2
+Washington,Alabama,2015,727863,66
+Washington,Alabama,2016,778980,90
+Washington,Alabama,2017,775076,78
+Washington,Alabama,2018,799290,90
+Wilcox,Alabama,2015,372273,56
+Wilcox,Alabama,2016,379381,11
+Wilcox,Alabama,2017,373667,93
+Wilcox,Alabama,2018,378418,79
+Winston,Alabama,2015,629762,69
+Winston,Alabama,2016,623036,33
+Winston,Alabama,2017,650751,56
+Winston,Alabama,2018,667455,68
+Aleutians East Borough,Alaska,2015,181353,6
+Aleutians East Borough,Alaska,2016,194592,53
+Aleutians East Borough,Alaska,2017,201690,38
+Aleutians East Borough,Alaska,2018,201612,91
+Aleutians West Census Area,Alaska,2015,371005,56
+Aleutians West Census Area,Alaska,2016,367795,54
+Aleutians West Census Area,Alaska,2017,347146,71
+Aleutians West Census Area,Alaska,2018,353175,85
+Anchorage Municipality,Alaska,2015,20856627,21
+Anchorage Municipality,Alaska,2016,20413792,35
+Anchorage Municipality,Alaska,2017,19985366,86
+Anchorage Municipality,Alaska,2018,20329942,55
+Bethel Census Area,Alaska,2015,611875,21
+Bethel Census Area,Alaska,2016,606090,20
+Bethel Census Area,Alaska,2017,608355,72
+Bethel Census Area,Alaska,2018,625190,33
+Bristol Bay Borough,Alaska,2015,113052,89
+Bristol Bay Borough,Alaska,2016,116004,5
+Bristol Bay Borough,Alaska,2017,114238,14
+Bristol Bay Borough,Alaska,2018,130341,21
+Denali Borough,Alaska,2015,243176,96
+Denali Borough,Alaska,2016,233441,37
+Denali Borough,Alaska,2017,234794,57
+Denali Borough,Alaska,2018,237263,72
+Dillingham Census Area,Alaska,2015,249674,94
+Dillingham Census Area,Alaska,2016,243808,39
+Dillingham Census Area,Alaska,2017,242542,93
+Dillingham Census Area,Alaska,2018,248432,92
+Fairbanks North Star Borough,Alaska,2015,5599363,9
+Fairbanks North Star Borough,Alaska,2016,5572193,36
+Fairbanks North Star Borough,Alaska,2017,5582087,19
+Fairbanks North Star Borough,Alaska,2018,5654089,31
+Haines Borough,Alaska,2015,93788,78
+Haines Borough,Alaska,2016,91604,58
+Haines Borough,Alaska,2017,95983,87
+Haines Borough,Alaska,2018,98959,14
+Hoonah-Angoon Census Area,Alaska,2015,85838,5
+Hoonah-Angoon Census Area,Alaska,2016,81045,25
+Hoonah-Angoon Census Area,Alaska,2017,81947,43
+Hoonah-Angoon Census Area,Alaska,2018,83216,34
+Juneau City and Borough,Alaska,2015,2221936,10
+Juneau City and Borough,Alaska,2016,2237416,38
+Juneau City and Borough,Alaska,2017,2294784,72
+Juneau City and Borough,Alaska,2018,2298214,82
+Kenai Peninsula Borough,Alaska,2015,2901418,75
+Kenai Peninsula Borough,Alaska,2016,2833117,49
+Kenai Peninsula Borough,Alaska,2017,2788536,28
+Kenai Peninsula Borough,Alaska,2018,2808539,43
+Ketchikan Gateway Borough,Alaska,2015,818853,57
+Ketchikan Gateway Borough,Alaska,2016,797981,80
+Ketchikan Gateway Borough,Alaska,2017,791585,56
+Ketchikan Gateway Borough,Alaska,2018,800724,11
+Kodiak Island Borough,Alaska,2015,767476,18
+Kodiak Island Borough,Alaska,2016,713809,31
+Kodiak Island Borough,Alaska,2017,711871,42
+Kodiak Island Borough,Alaska,2018,715043,76
+Kusilvak Census Area,Alaska,2015,145175,12
+Kusilvak Census Area,Alaska,2016,146585,23
+Kusilvak Census Area,Alaska,2017,142129,42
+Kusilvak Census Area,Alaska,2018,144996,91
+Lake and Peninsula Borough,Alaska,2015,79081,95
+Lake and Peninsula Borough,Alaska,2016,76957,1
+Lake and Peninsula Borough,Alaska,2017,84208,80
+Lake and Peninsula Borough,Alaska,2018,88124,20
+Matanuska-Susitna Borough,Alaska,2015,2288760,25
+Matanuska-Susitna Borough,Alaska,2016,2260538,12
+Matanuska-Susitna Borough,Alaska,2017,2207986,82
+Matanuska-Susitna Borough,Alaska,2018,2266408,31
+Nome Census Area,Alaska,2015,412660,5
+Nome Census Area,Alaska,2016,380519,22
+Nome Census Area,Alaska,2017,392868,1
+Nome Census Area,Alaska,2018,396694,20
+North Slope Borough,Alaska,2015,11130682,25
+North Slope Borough,Alaska,2016,10567213,15
+North Slope Borough,Alaska,2017,11231169,100
+North Slope Borough,Alaska,2018,10469543,20
+Northwest Arctic Borough,Alaska,2015,577594,25
+Northwest Arctic Borough,Alaska,2016,591812,31
+Northwest Arctic Borough,Alaska,2017,680814,81
+Northwest Arctic Borough,Alaska,2018,696765,8
+Petersburg Borough,Alaska,2015,195546,49
+Petersburg Borough,Alaska,2016,185565,72
+Petersburg Borough,Alaska,2017,175901,4
+Petersburg Borough,Alaska,2018,172178,87
+Prince of Wales-Hyder Census Area,Alaska,2015,222437,99
+Prince of Wales-Hyder Census Area,Alaska,2016,229481,21
+Prince of Wales-Hyder Census Area,Alaska,2017,222055,44
+Prince of Wales-Hyder Census Area,Alaska,2018,219255,49
+Sitka City and Borough,Alaska,2015,474614,3
+Sitka City and Borough,Alaska,2016,430768,71
+Sitka City and Borough,Alaska,2017,429859,88
+Sitka City and Borough,Alaska,2018,443526,73
+Skagway Municipality,Alaska,2015,89024,97
+Skagway Municipality,Alaska,2016,95080,21
+Skagway Municipality,Alaska,2017,95733,90
+Skagway Municipality,Alaska,2018,95346,16
+Southeast Fairbanks Census Area,Alaska,2015,558749,54
+Southeast Fairbanks Census Area,Alaska,2016,594212,62
+Southeast Fairbanks Census Area,Alaska,2017,640754,25
+Southeast Fairbanks Census Area,Alaska,2018,637943,38
+Valdez-Cordova Census Area,Alaska,2015,2174869,60
+Valdez-Cordova Census Area,Alaska,2016,2157680,94
+Valdez-Cordova Census Area,Alaska,2017,2173189,74
+Valdez-Cordova Census Area,Alaska,2018,2331614,86
+Wrangell City and Borough,Alaska,2015,96477,99
+Wrangell City and Borough,Alaska,2016,100629,8
+Wrangell City and Borough,Alaska,2017,92788,82
+Wrangell City and Borough,Alaska,2018,94120,29
+Yakutat City and Borough,Alaska,2015,34590,56
+Yakutat City and Borough,Alaska,2016,28345,3
+Yakutat City and Borough,Alaska,2017,27057,94
+Yakutat City and Borough,Alaska,2018,28420,81
+Yukon-Koyukuk Census Area,Alaska,2015,247510,82
+Yukon-Koyukuk Census Area,Alaska,2016,260813,19
+Yukon-Koyukuk Census Area,Alaska,2017,258303,21
+Yukon-Koyukuk Census Area,Alaska,2018,273529,72
+Apache,Arizona,2015,2502406,8
+Apache,Arizona,2016,2509130,29
+Apache,Arizona,2017,2544096,76
+Apache,Arizona,2018,2619469,33
+Cochise,Arizona,2015,4205478,97
+Cochise,Arizona,2016,4315749,47
+Cochise,Arizona,2017,4259736,99
+Cochise,Arizona,2018,4404134,93
+Coconino,Arizona,2015,6251840,73
+Coconino,Arizona,2016,6396139,88
+Coconino,Arizona,2017,6753461,9
+Coconino,Arizona,2018,6770442,36
+Gila,Arizona,2015,1975267,89
+Gila,Arizona,2016,1895553,29
+Gila,Arizona,2017,1979124,97
+Gila,Arizona,2018,1985337,78
+Graham,Arizona,2015,838174,98
+Graham,Arizona,2016,971213,4
+Graham,Arizona,2017,1024616,81
+Graham,Arizona,2018,1097980,76
+Greenlee,Arizona,2015,1603588,68
+Greenlee,Arizona,2016,1447670,34
+Greenlee,Arizona,2017,1764250,17
+Greenlee,Arizona,2018,1771158,21
+La Paz,Arizona,2015,554228,93
+La Paz,Arizona,2016,582158,55
+La Paz,Arizona,2017,582552,55
+La Paz,Arizona,2018,602409,77
+Maricopa,Arizona,2015,197556651,84
+Maricopa,Arizona,2016,204282531,28
+Maricopa,Arizona,2017,211308745,62
+Maricopa,Arizona,2018,220789933,35
+Mohave,Arizona,2015,4700479,74
+Mohave,Arizona,2016,4841032,76
+Mohave,Arizona,2017,4900560,23
+Mohave,Arizona,2018,5068013,60
+Navajo,Arizona,2015,3277796,30
+Navajo,Arizona,2016,3227185,1
+Navajo,Arizona,2017,3380361,94
+Navajo,Arizona,2018,3535546,44
+Pima,Arizona,2015,36108903,35
+Pima,Arizona,2016,37134412,68
+Pima,Arizona,2017,38636977,45
+Pima,Arizona,2018,40011352,61
+Pinal,Arizona,2015,6467645,67
+Pinal,Arizona,2016,6590811,34
+Pinal,Arizona,2017,6571381,90
+Pinal,Arizona,2018,6936698,96
+Santa Cruz,Arizona,2015,1538667,91
+Santa Cruz,Arizona,2016,1544234,76
+Santa Cruz,Arizona,2017,1620780,59
+Santa Cruz,Arizona,2018,1701223,64
+Yavapai,Arizona,2015,5837276,20
+Yavapai,Arizona,2016,6038037,11
+Yavapai,Arizona,2017,6263132,60
+Yavapai,Arizona,2018,6481866,9
+Yuma,Arizona,2015,6776399,31
+Yuma,Arizona,2016,7370372,88
+Yuma,Arizona,2017,7783381,35
+Yuma,Arizona,2018,7874389,66
+Arkansas,Arkansas,2015,1004316,80
+Arkansas,Arkansas,2016,1064308,30
+Arkansas,Arkansas,2017,1011497,96
+Arkansas,Arkansas,2018,1028895,38
+Ashley,Arkansas,2015,893843,93
+Ashley,Arkansas,2016,910844,90
+Ashley,Arkansas,2017,896476,15
+Ashley,Arkansas,2018,907876,30
+Baxter,Arkansas,2015,1101296,12
+Baxter,Arkansas,2016,1094691,77
+Baxter,Arkansas,2017,1102545,12
+Baxter,Arkansas,2018,1131278,56
+Benton,Arkansas,2015,11874454,97
+Benton,Arkansas,2016,12095992,38
+Benton,Arkansas,2017,12846262,14
+Benton,Arkansas,2018,13245065,92
+Boone,Arkansas,2015,1106264,23
+Boone,Arkansas,2016,1113842,72
+Boone,Arkansas,2017,1117118,19
+Boone,Arkansas,2018,1150136,86
+Bradley,Arkansas,2015,321127,66
+Bradley,Arkansas,2016,313284,67
+Bradley,Arkansas,2017,323897,7
+Bradley,Arkansas,2018,330283,99
+Calhoun,Arkansas,2015,314529,73
+Calhoun,Arkansas,2016,305565,61
+Calhoun,Arkansas,2017,326112,4
+Calhoun,Arkansas,2018,344894,39
+Carroll,Arkansas,2015,756728,87
+Carroll,Arkansas,2016,723423,99
+Carroll,Arkansas,2017,784947,68
+Carroll,Arkansas,2018,788311,97
+Chicot,Arkansas,2015,234007,1
+Chicot,Arkansas,2016,253168,54
+Chicot,Arkansas,2017,254641,65
+Chicot,Arkansas,2018,244098,8
+Clark,Arkansas,2015,718661,7
+Clark,Arkansas,2016,723399,46
+Clark,Arkansas,2017,730698,47
+Clark,Arkansas,2018,734017,18
+Clay,Arkansas,2015,299759,31
+Clay,Arkansas,2016,289400,75
+Clay,Arkansas,2017,313160,82
+Clay,Arkansas,2018,304763,46
+Cleburne,Arkansas,2015,1099560,64
+Cleburne,Arkansas,2016,1009797,19
+Cleburne,Arkansas,2017,982503,62
+Cleburne,Arkansas,2018,890222,52
+Cleveland,Arkansas,2015,160765,43
+Cleveland,Arkansas,2016,156902,80
+Cleveland,Arkansas,2017,163377,27
+Cleveland,Arkansas,2018,169834,28
+Columbia,Arkansas,2015,883285,31
+Columbia,Arkansas,2016,843077,40
+Columbia,Arkansas,2017,831485,35
+Columbia,Arkansas,2018,828515,77
+Conway,Arkansas,2015,1154642,96
+Conway,Arkansas,2016,1085068,46
+Conway,Arkansas,2017,1025383,66
+Conway,Arkansas,2018,962556,34
+Craighead,Arkansas,2015,3821826,49
+Craighead,Arkansas,2016,3860116,31
+Craighead,Arkansas,2017,3922075,58
+Craighead,Arkansas,2018,4031319,14
+Crawford,Arkansas,2015,1528602,70
+Crawford,Arkansas,2016,1517580,18
+Crawford,Arkansas,2017,1542213,69
+Crawford,Arkansas,2018,1567342,75
+Crittenden,Arkansas,2015,1493676,86
+Crittenden,Arkansas,2016,1464223,21
+Crittenden,Arkansas,2017,1483554,33
+Crittenden,Arkansas,2018,1481505,29
+Cross,Arkansas,2015,437090,18
+Cross,Arkansas,2016,435801,71
+Cross,Arkansas,2017,439065,37
+Cross,Arkansas,2018,440941,77
+Dallas,Arkansas,2015,195291,60
+Dallas,Arkansas,2016,194016,79
+Dallas,Arkansas,2017,195576,55
+Dallas,Arkansas,2018,192320,72
+Desha,Arkansas,2015,505433,33
+Desha,Arkansas,2016,536213,81
+Desha,Arkansas,2017,495296,96
+Desha,Arkansas,2018,498045,3
+Drew,Arkansas,2015,570890,62
+Drew,Arkansas,2016,589264,25
+Drew,Arkansas,2017,571341,54
+Drew,Arkansas,2018,574589,80
+Faulkner,Arkansas,2015,3720455,40
+Faulkner,Arkansas,2016,3679979,6
+Faulkner,Arkansas,2017,3625171,49
+Faulkner,Arkansas,2018,3683719,75
+Franklin,Arkansas,2015,485328,69
+Franklin,Arkansas,2016,455437,59
+Franklin,Arkansas,2017,471660,70
+Franklin,Arkansas,2018,479936,31
+Fulton,Arkansas,2015,199447,19
+Fulton,Arkansas,2016,179951,13
+Fulton,Arkansas,2017,180330,96
+Fulton,Arkansas,2018,187790,81
+Garland,Arkansas,2015,2937538,94
+Garland,Arkansas,2016,2942846,28
+Garland,Arkansas,2017,3003768,22
+Garland,Arkansas,2018,3051825,90
+Grant,Arkansas,2015,375292,25
+Grant,Arkansas,2016,372803,59
+Grant,Arkansas,2017,378549,30
+Grant,Arkansas,2018,390516,26
+Greene,Arkansas,2015,1316996,24
+Greene,Arkansas,2016,1283954,77
+Greene,Arkansas,2017,1315511,9
+Greene,Arkansas,2018,1342823,62
+Hempstead,Arkansas,2015,817269,78
+Hempstead,Arkansas,2016,818374,8
+Hempstead,Arkansas,2017,883781,97
+Hempstead,Arkansas,2018,877218,8
+Hot Spring,Arkansas,2015,823538,37
+Hot Spring,Arkansas,2016,893297,1
+Hot Spring,Arkansas,2017,873769,40
+Hot Spring,Arkansas,2018,863609,72
+Howard,Arkansas,2015,580517,54
+Howard,Arkansas,2016,569038,76
+Howard,Arkansas,2017,593606,89
+Howard,Arkansas,2018,597565,43
+Independence,Arkansas,2015,1489901,70
+Independence,Arkansas,2016,1572081,34
+Independence,Arkansas,2017,1582135,76
+Independence,Arkansas,2018,1670702,89
+Izard,Arkansas,2015,291945,1
+Izard,Arkansas,2016,280613,68
+Izard,Arkansas,2017,267905,20
+Izard,Arkansas,2018,273211,70
+Jackson,Arkansas,2015,528349,84
+Jackson,Arkansas,2016,533677,96
+Jackson,Arkansas,2017,520962,79
+Jackson,Arkansas,2018,528213,53
+Jefferson,Arkansas,2015,2917025,21
+Jefferson,Arkansas,2016,2935141,6
+Jefferson,Arkansas,2017,2931545,27
+Jefferson,Arkansas,2018,2917078,52
+Johnson,Arkansas,2015,692708,48
+Johnson,Arkansas,2016,688151,5
+Johnson,Arkansas,2017,703176,65
+Johnson,Arkansas,2018,698286,22
+Lafayette,Arkansas,2015,197146,37
+Lafayette,Arkansas,2016,201252,98
+Lafayette,Arkansas,2017,182376,58
+Lafayette,Arkansas,2018,174464,11
+Lawrence,Arkansas,2015,377185,17
+Lawrence,Arkansas,2016,401118,93
+Lawrence,Arkansas,2017,419851,25
+Lawrence,Arkansas,2018,444009,77
+Lee,Arkansas,2015,186225,26
+Lee,Arkansas,2016,178330,67
+Lee,Arkansas,2017,170645,92
+Lee,Arkansas,2018,178058,80
+Lincoln,Arkansas,2015,263976,70
+Lincoln,Arkansas,2016,278624,50
+Lincoln,Arkansas,2017,250313,55
+Lincoln,Arkansas,2018,261122,59
+Little River,Arkansas,2015,406071,18
+Little River,Arkansas,2016,396547,66
+Little River,Arkansas,2017,384516,27
+Little River,Arkansas,2018,378858,100
+Logan,Arkansas,2015,628938,86
+Logan,Arkansas,2016,605629,7
+Logan,Arkansas,2017,614896,13
+Logan,Arkansas,2018,600829,28
+Lonoke,Arkansas,2015,1129147,98
+Lonoke,Arkansas,2016,1120170,69
+Lonoke,Arkansas,2017,1145735,43
+Lonoke,Arkansas,2018,1159033,49
+Madison,Arkansas,2015,407009,13
+Madison,Arkansas,2016,390283,81
+Madison,Arkansas,2017,405857,45
+Madison,Arkansas,2018,411807,26
+Marion,Arkansas,2015,550764,20
+Marion,Arkansas,2016,486098,100
+Marion,Arkansas,2017,486441,59
+Marion,Arkansas,2018,494246,90
+Miller,Arkansas,2015,1116700,6
+Miller,Arkansas,2016,1094405,92
+Miller,Arkansas,2017,1075969,98
+Miller,Arkansas,2018,1102278,42
+Mississippi,Arkansas,2015,2006432,81
+Mississippi,Arkansas,2016,2165446,56
+Mississippi,Arkansas,2017,2086796,91
+Mississippi,Arkansas,2018,2205413,7
+Monroe,Arkansas,2015,192302,84
+Monroe,Arkansas,2016,197137,77
+Monroe,Arkansas,2017,194720,71
+Monroe,Arkansas,2018,188860,63
+Montgomery,Arkansas,2015,166208,6
+Montgomery,Arkansas,2016,157184,9
+Montgomery,Arkansas,2017,155057,94
+Montgomery,Arkansas,2018,157162,7
+Nevada,Arkansas,2015,276505,34
+Nevada,Arkansas,2016,270195,18
+Nevada,Arkansas,2017,264549,52
+Nevada,Arkansas,2018,272959,53
+Newton,Arkansas,2015,101767,36
+Newton,Arkansas,2016,97685,63
+Newton,Arkansas,2017,95467,54
+Newton,Arkansas,2018,96963,14
+Ouachita,Arkansas,2015,622256,51
+Ouachita,Arkansas,2016,610952,29
+Ouachita,Arkansas,2017,605002,21
+Ouachita,Arkansas,2018,614610,26
+Perry,Arkansas,2015,153683,22
+Perry,Arkansas,2016,142159,11
+Perry,Arkansas,2017,142145,68
+Perry,Arkansas,2018,141590,82
+Phillips,Arkansas,2015,480917,26
+Phillips,Arkansas,2016,457899,90
+Phillips,Arkansas,2017,444620,94
+Phillips,Arkansas,2018,458421,11
+Pike,Arkansas,2015,245683,16
+Pike,Arkansas,2016,234545,3
+Pike,Arkansas,2017,240251,91
+Pike,Arkansas,2018,248289,87
+Poinsett,Arkansas,2015,529275,24
+Poinsett,Arkansas,2016,528857,39
+Poinsett,Arkansas,2017,541014,39
+Poinsett,Arkansas,2018,555990,63
+Polk,Arkansas,2015,500117,12
+Polk,Arkansas,2016,479843,43
+Polk,Arkansas,2017,490456,91
+Polk,Arkansas,2018,502922,85
+Pope,Arkansas,2015,2805696,94
+Pope,Arkansas,2016,2728238,48
+Pope,Arkansas,2017,2683755,12
+Pope,Arkansas,2018,2692810,95
+Prairie,Arkansas,2015,158599,3
+Prairie,Arkansas,2016,159145,50
+Prairie,Arkansas,2017,164188,14
+Prairie,Arkansas,2018,165493,66
+Pulaski,Arkansas,2015,26416384,27
+Pulaski,Arkansas,2016,26975550,28
+Pulaski,Arkansas,2017,26639032,80
+Pulaski,Arkansas,2018,27208113,97
+Randolph,Arkansas,2015,348243,21
+Randolph,Arkansas,2016,367600,28
+Randolph,Arkansas,2017,393806,95
+Randolph,Arkansas,2018,415843,94
+St. Francis,Arkansas,2015,689420,3
+St. Francis,Arkansas,2016,670682,24
+St. Francis,Arkansas,2017,693463,61
+St. Francis,Arkansas,2018,687857,85
+Saline,Arkansas,2015,1935576,76
+Saline,Arkansas,2016,1926672,93
+Saline,Arkansas,2017,1930880,90
+Saline,Arkansas,2018,1991439,91
+Scott,Arkansas,2015,275104,49
+Scott,Arkansas,2016,266741,83
+Scott,Arkansas,2017,283220,34
+Scott,Arkansas,2018,288385,46
+Searcy,Arkansas,2015,128823,37
+Searcy,Arkansas,2016,122884,76
+Searcy,Arkansas,2017,120167,18
+Searcy,Arkansas,2018,122483,13
+Sebastian,Arkansas,2015,6009047,16
+Sebastian,Arkansas,2016,6017794,3
+Sebastian,Arkansas,2017,5982291,21
+Sebastian,Arkansas,2018,6067121,68
+Sevier,Arkansas,2015,449689,16
+Sevier,Arkansas,2016,445428,99
+Sevier,Arkansas,2017,448651,55
+Sevier,Arkansas,2018,462219,68
+Sharp,Arkansas,2015,327148,10
+Sharp,Arkansas,2016,315495,8
+Sharp,Arkansas,2017,314779,38
+Sharp,Arkansas,2018,309809,14
+Stone,Arkansas,2015,230089,62
+Stone,Arkansas,2016,212889,31
+Stone,Arkansas,2017,219896,20
+Stone,Arkansas,2018,228301,68
+Union,Arkansas,2015,2763045,46
+Union,Arkansas,2016,2652569,97
+Union,Arkansas,2017,2723839,70
+Union,Arkansas,2018,2806423,61
+Van Buren,Arkansas,2015,942137,7
+Van Buren,Arkansas,2016,826520,40
+Van Buren,Arkansas,2017,756095,72
+Van Buren,Arkansas,2018,658285,17
+Washington,Arkansas,2015,9039927,100
+Washington,Arkansas,2016,9389303,94
+Washington,Arkansas,2017,9676654,53
+Washington,Arkansas,2018,9828703,57
+White,Arkansas,2015,2425197,3
+White,Arkansas,2016,2350710,98
+White,Arkansas,2017,2296231,48
+White,Arkansas,2018,2272114,94
+Woodruff,Arkansas,2015,185095,42
+Woodruff,Arkansas,2016,191496,3
+Woodruff,Arkansas,2017,204480,8
+Woodruff,Arkansas,2018,210719,39
+Yell,Arkansas,2015,534662,19
+Yell,Arkansas,2016,517732,26
+Yell,Arkansas,2017,537493,25
+Yell,Arkansas,2018,550276,34
+Alameda,California,2015,114592329,28
+Alameda,California,2016,119447773,12
+Alameda,California,2017,125803266,40
+Alameda,California,2018,130701879,90
+Alpine,California,2015,194700,40
+Alpine,California,2016,197160,72
+Alpine,California,2017,197087,57
+Alpine,California,2018,214895,48
+Amador,California,2015,1514323,19
+Amador,California,2016,1557733,43
+Amador,California,2017,1589308,3
+Amador,California,2018,1651760,14
+Butte,California,2015,8271641,72
+Butte,California,2016,8685754,19
+Butte,California,2017,9002731,5
+Butte,California,2018,9219915,11
+Calaveras,California,2015,1249325,31
+Calaveras,California,2016,1351739,24
+Calaveras,California,2017,1452571,71
+Calaveras,California,2018,1440250,53
+Colusa,California,2015,1693756,76
+Colusa,California,2016,1579352,2
+Colusa,California,2017,1472320,67
+Colusa,California,2018,1673234,36
+Contra Costa,California,2015,71028489,3
+Contra Costa,California,2016,70594339,75
+Contra Costa,California,2017,75495547,33
+Contra Costa,California,2018,77463188,79
+Del Norte,California,2015,869352,5
+Del Norte,California,2016,902897,12
+Del Norte,California,2017,905649,73
+Del Norte,California,2018,939846,53
+El Dorado,California,2015,6601749,6
+El Dorado,California,2016,7043191,71
+El Dorado,California,2017,7419868,11
+El Dorado,California,2018,7653908,20
+Fresno,California,2015,39100161,16
+Fresno,California,2016,39839249,63
+Fresno,California,2017,41597807,49
+Fresno,California,2018,43436946,94
+Glenn,California,2015,1234667,91
+Glenn,California,2016,1354291,26
+Glenn,California,2017,1318557,18
+Glenn,California,2018,1495087,50
+Humboldt,California,2015,5528777,37
+Humboldt,California,2016,5765056,3
+Humboldt,California,2017,5954256,17
+Humboldt,California,2018,6118687,47
+Imperial,California,2015,7759415,7
+Imperial,California,2016,8016694,25
+Imperial,California,2017,8189014,52
+Imperial,California,2018,8038068,11
+Inyo,California,2015,1123225,53
+Inyo,California,2016,1184726,19
+Inyo,California,2017,1195289,81
+Inyo,California,2018,1205264,47
+Kern,California,2015,48137003,11
+Kern,California,2016,49076083,45
+Kern,California,2017,50226164,44
+Kern,California,2018,49864234,99
+Kings,California,2015,5487526,4
+Kings,California,2016,5377698,3
+Kings,California,2017,5481134,82
+Kings,California,2018,5648724,40
+Lake,California,2015,1948505,58
+Lake,California,2016,2059415,72
+Lake,California,2017,2106437,89
+Lake,California,2018,2178663,75
+Lassen,California,2015,1298987,36
+Lassen,California,2016,1346229,55
+Lassen,California,2017,1340576,39
+Lassen,California,2018,1358142,29
+Los Angeles,California,2015,653885024,2
+Los Angeles,California,2016,667706082,35
+Los Angeles,California,2017,688661590,29
+Los Angeles,California,2018,710893266,50
+Madera,California,2015,5982371,66
+Madera,California,2016,6418227,12
+Madera,California,2017,6658105,43
+Madera,California,2018,7099931,35
+Marin,California,2015,19089876,4
+Marin,California,2016,19648493,97
+Marin,California,2017,19983906,36
+Marin,California,2018,20896027,9
+Mariposa,California,2015,689194,40
+Mariposa,California,2016,751702,79
+Mariposa,California,2017,796797,3
+Mariposa,California,2018,811272,8
+Mendocino,California,2015,3334857,95
+Mendocino,California,2016,3386979,81
+Mendocino,California,2017,3444874,59
+Mendocino,California,2018,3552687,11
+Merced,California,2015,8595504,15
+Merced,California,2016,8742254,26
+Merced,California,2017,9504388,18
+Merced,California,2018,9435667,36
+Modoc,California,2015,433203,64
+Modoc,California,2016,445488,44
+Modoc,California,2017,426486,19
+Modoc,California,2018,441800,67
+Mono,California,2015,907585,11
+Mono,California,2016,949362,86
+Mono,California,2017,1046210,92
+Mono,California,2018,1009386,64
+Monterey,California,2015,24379259,84
+Monterey,California,2016,24879466,33
+Monterey,California,2017,25149109,18
+Monterey,California,2018,25834713,57
+Napa,California,2015,9214016,79
+Napa,California,2016,9336207,23
+Napa,California,2017,9506546,22
+Napa,California,2018,9999759,94
+Nevada,California,2015,3942943,69
+Nevada,California,2016,4029754,10
+Nevada,California,2017,4053373,12
+Nevada,California,2018,4170409,77
+Orange,California,2015,208517447,100
+Orange,California,2016,212281069,56
+Orange,California,2017,223791535,31
+Orange,California,2018,230145536,58
+Placer,California,2015,18891434,90
+Placer,California,2016,19854262,91
+Placer,California,2017,21027562,83
+Placer,California,2018,22021571,64
+Plumas,California,2015,937022,64
+Plumas,California,2016,1012209,72
+Plumas,California,2017,1109769,86
+Plumas,California,2018,1052152,33
+Riverside,California,2015,72375487,95
+Riverside,California,2016,74405465,59
+Riverside,California,2017,77102154,13
+Riverside,California,2018,79775504,89
+Sacramento,California,2015,78935508,30
+Sacramento,California,2016,79773093,46
+Sacramento,California,2017,82506601,93
+Sacramento,California,2018,85235147,53
+San Benito,California,2015,2275993,55
+San Benito,California,2016,2385697,3
+San Benito,California,2017,2482964,58
+San Benito,California,2018,2495845,99
+San Bernardino,California,2015,77495694,18
+San Bernardino,California,2016,79698867,81
+San Bernardino,California,2017,82478302,11
+San Bernardino,California,2018,85114555,94
+San Diego,California,2015,200564607,99
+San Diego,California,2016,203882502,77
+San Diego,California,2017,210693896,96
+San Diego,California,2018,219361505,8
+San Francisco,California,2015,133969619,29
+San Francisco,California,2016,142435855,61
+San Francisco,California,2017,151359380,93
+San Francisco,California,2018,162541244,55
+San Joaquin,California,2015,26817792,8
+San Joaquin,California,2016,26805456,82
+San Joaquin,California,2017,28027041,21
+San Joaquin,California,2018,29257580,10
+San Luis Obispo,California,2015,15388320,86
+San Luis Obispo,California,2016,15865142,56
+San Luis Obispo,California,2017,16138584,5
+San Luis Obispo,California,2018,16536404,80
+San Mateo,California,2015,86010720,69
+San Mateo,California,2016,91287140,58
+San Mateo,California,2017,99816105,37
+San Mateo,California,2018,104986153,74
+Santa Barbara,California,2015,26252102,88
+Santa Barbara,California,2016,26107316,66
+Santa Barbara,California,2017,26861059,77
+Santa Barbara,California,2018,27855958,82
+Santa Clara,California,2015,251750330,7
+Santa Clara,California,2016,268421986,4
+Santa Clara,California,2017,287235403,22
+Santa Clara,California,2018,316525538,38
+Santa Cruz,California,2015,13166978,31
+Santa Cruz,California,2016,13370887,51
+Santa Cruz,California,2017,13520021,21
+Santa Cruz,California,2018,13765700,87
+Shasta,California,2015,7010541,63
+Shasta,California,2016,7289876,17
+Shasta,California,2017,7635618,57
+Shasta,California,2018,7655080,94
+Sierra,California,2015,174241,79
+Sierra,California,2016,186168,55
+Sierra,California,2017,191322,96
+Sierra,California,2018,215033,77
+Siskiyou,California,2015,1724683,18
+Siskiyou,California,2016,1802970,12
+Siskiyou,California,2017,1811500,1
+Siskiyou,California,2018,1776081,12
+Solano,California,2015,21145851,15
+Solano,California,2016,22142123,90
+Solano,California,2017,22841474,26
+Solano,California,2018,23303994,74
+Sonoma,California,2015,25854007,94
+Sonoma,California,2016,26617535,99
+Sonoma,California,2017,27421167,25
+Sonoma,California,2018,28565621,87
+Stanislaus,California,2015,21248796,10
+Stanislaus,California,2016,21075833,79
+Stanislaus,California,2017,21993425,49
+Stanislaus,California,2018,23160773,17
+Sutter,California,2015,3289404,83
+Sutter,California,2016,3252117,77
+Sutter,California,2017,3326349,92
+Sutter,California,2018,3486115,99
+Tehama,California,2015,1917492,61
+Tehama,California,2016,2037676,49
+Tehama,California,2017,2100567,72
+Tehama,California,2018,2210392,7
+Trinity,California,2015,451395,85
+Trinity,California,2016,473471,97
+Trinity,California,2017,492954,3
+Trinity,California,2018,506794,9
+Tulare,California,2015,16739950,31
+Tulare,California,2016,17147139,99
+Tulare,California,2017,17773212,24
+Tulare,California,2018,18415098,18
+Tuolumne,California,2015,2226912,13
+Tuolumne,California,2016,2425612,67
+Tuolumne,California,2017,2556252,46
+Tuolumne,California,2018,2430940,31
+Ventura,California,2015,50480790,89
+Ventura,California,2016,51798309,95
+Ventura,California,2017,52776068,57
+Ventura,California,2018,53439240,9
+Yolo,California,2015,12532441,68
+Yolo,California,2016,12952543,65
+Yolo,California,2017,13350147,95
+Yolo,California,2018,13751632,6
+Yuba,California,2015,2753556,35
+Yuba,California,2016,2872113,94
+Yuba,California,2017,2985566,59
+Yuba,California,2018,3020233,78
+Adams,Colorado,2015,21039417,74
+Adams,Colorado,2016,21995795,97
+Adams,Colorado,2017,22938605,48
+Adams,Colorado,2018,23933937,68
+Alamosa,Colorado,2015,662337,87
+Alamosa,Colorado,2016,659375,91
+Alamosa,Colorado,2017,654314,74
+Alamosa,Colorado,2018,671553,14
+Arapahoe,Colorado,2015,39956471,42
+Arapahoe,Colorado,2016,41013746,23
+Arapahoe,Colorado,2017,42654549,45
+Arapahoe,Colorado,2018,44037874,85
+Archuleta,Colorado,2015,464385,12
+Archuleta,Colorado,2016,481176,59
+Archuleta,Colorado,2017,479089,71
+Archuleta,Colorado,2018,482935,56
+Baca,Colorado,2015,118407,20
+Baca,Colorado,2016,121877,36
+Baca,Colorado,2017,127452,98
+Baca,Colorado,2018,137473,49
+Bent,Colorado,2015,172963,66
+Bent,Colorado,2016,181238,10
+Bent,Colorado,2017,163672,95
+Bent,Colorado,2018,165660,42
+Boulder,Colorado,2015,22669578,49
+Boulder,Colorado,2016,23423069,36
+Boulder,Colorado,2017,24607654,31
+Boulder,Colorado,2018,25319458,25
+Broomfield,Colorado,2015,7595628,72
+Broomfield,Colorado,2016,7596604,20
+Broomfield,Colorado,2017,8366371,51
+Broomfield,Colorado,2018,8050690,32
+Chaffee,Colorado,2015,606033,75
+Chaffee,Colorado,2016,634208,13
+Chaffee,Colorado,2017,662174,47
+Chaffee,Colorado,2018,692114,62
+Cheyenne,Colorado,2015,217923,41
+Cheyenne,Colorado,2016,230128,81
+Cheyenne,Colorado,2017,251808,28
+Cheyenne,Colorado,2018,235536,67
+Clear Creek,Colorado,2015,639648,81
+Clear Creek,Colorado,2016,494493,87
+Clear Creek,Colorado,2017,509932,40
+Clear Creek,Colorado,2018,500533,92
+Conejos,Colorado,2015,215666,89
+Conejos,Colorado,2016,216947,22
+Conejos,Colorado,2017,222447,25
+Conejos,Colorado,2018,244248,27
+Costilla,Colorado,2015,107006,98
+Costilla,Colorado,2016,96329,7
+Costilla,Colorado,2017,104746,98
+Costilla,Colorado,2018,107662,53
+Crowley,Colorado,2015,168503,39
+Crowley,Colorado,2016,182013,6
+Crowley,Colorado,2017,153741,10
+Crowley,Colorado,2018,126638,93
+Custer,Colorado,2015,140388,81
+Custer,Colorado,2016,126686,50
+Custer,Colorado,2017,125904,32
+Custer,Colorado,2018,127789,33
+Delta,Colorado,2015,791826,22
+Delta,Colorado,2016,756267,24
+Delta,Colorado,2017,750050,39
+Delta,Colorado,2018,785652,45
+Denver,Colorado,2015,64116859,9
+Denver,Colorado,2016,64925150,43
+Denver,Colorado,2017,67039713,4
+Denver,Colorado,2018,70054379,74
+Dolores,Colorado,2015,216453,65
+Dolores,Colorado,2016,191724,73
+Dolores,Colorado,2017,188029,26
+Dolores,Colorado,2018,156585,24
+Douglas,Colorado,2015,14173343,46
+Douglas,Colorado,2016,14332960,19
+Douglas,Colorado,2017,15226588,31
+Douglas,Colorado,2018,15743268,21
+Eagle,Colorado,2015,3136360,71
+Eagle,Colorado,2016,3216484,6
+Eagle,Colorado,2017,3308719,37
+Eagle,Colorado,2018,3375460,31
+Elbert,Colorado,2015,408333,15
+Elbert,Colorado,2016,423323,98
+Elbert,Colorado,2017,451766,11
+Elbert,Colorado,2018,484094,72
+El Paso,Colorado,2015,30201637,36
+El Paso,Colorado,2016,30907788,25
+El Paso,Colorado,2017,32265733,85
+El Paso,Colorado,2018,33349174,9
+Fremont,Colorado,2015,1248334,73
+Fremont,Colorado,2016,1269874,99
+Fremont,Colorado,2017,1295616,56
+Fremont,Colorado,2018,1325142,97
+Garfield,Colorado,2015,4230409,53
+Garfield,Colorado,2016,4246153,83
+Garfield,Colorado,2017,4301192,44
+Garfield,Colorado,2018,4243642,88
+Gilpin,Colorado,2015,505564,22
+Gilpin,Colorado,2016,503282,80
+Gilpin,Colorado,2017,552434,61
+Gilpin,Colorado,2018,525142,46
+Grand,Colorado,2015,653776,97
+Grand,Colorado,2016,661941,44
+Grand,Colorado,2017,685071,90
+Grand,Colorado,2018,714703,86
+Gunnison,Colorado,2015,923743,46
+Gunnison,Colorado,2016,943497,99
+Gunnison,Colorado,2017,1012690,100
+Gunnison,Colorado,2018,1028922,89
+Hinsdale,Colorado,2015,48200,34
+Hinsdale,Colorado,2016,47982,3
+Hinsdale,Colorado,2017,52284,54
+Hinsdale,Colorado,2018,52699,15
+Huerfano,Colorado,2015,233778,97
+Huerfano,Colorado,2016,246665,10
+Huerfano,Colorado,2017,271378,27
+Huerfano,Colorado,2018,273895,97
+Jackson,Colorado,2015,89185,81
+Jackson,Colorado,2016,93650,47
+Jackson,Colorado,2017,98742,87
+Jackson,Colorado,2018,118656,27
+Jefferson,Colorado,2015,26075796,68
+Jefferson,Colorado,2016,27600781,80
+Jefferson,Colorado,2017,28434307,50
+Jefferson,Colorado,2018,29445620,98
+Kiowa,Colorado,2015,84548,24
+Kiowa,Colorado,2016,83008,100
+Kiowa,Colorado,2017,90628,76
+Kiowa,Colorado,2018,73798,1
+Kit Carson,Colorado,2015,318197,71
+Kit Carson,Colorado,2016,325292,97
+Kit Carson,Colorado,2017,331713,99
+Kit Carson,Colorado,2018,391520,19
+Lake,Colorado,2015,277307,6
+Lake,Colorado,2016,266524,16
+Lake,Colorado,2017,296883,22
+Lake,Colorado,2018,309433,26
+La Plata,Colorado,2015,3499160,35
+La Plata,Colorado,2016,3674622,28
+La Plata,Colorado,2017,3650188,35
+La Plata,Colorado,2018,3515882,14
+Larimer,Colorado,2015,14784676,45
+Larimer,Colorado,2016,15358832,35
+Larimer,Colorado,2017,16121584,83
+Larimer,Colorado,2018,16793330,38
+Las Animas,Colorado,2015,718839,84
+Las Animas,Colorado,2016,736109,80
+Las Animas,Colorado,2017,723964,99
+Las Animas,Colorado,2018,711460,13
+Lincoln,Colorado,2015,363542,11
+Lincoln,Colorado,2016,374098,98
+Lincoln,Colorado,2017,396871,98
+Lincoln,Colorado,2018,391910,76
+Logan,Colorado,2015,1217271,70
+Logan,Colorado,2016,1235667,6
+Logan,Colorado,2017,1090097,16
+Logan,Colorado,2018,1061679,49
+Mesa,Colorado,2015,5757436,13
+Mesa,Colorado,2016,5695220,11
+Mesa,Colorado,2017,5970021,60
+Mesa,Colorado,2018,6253144,77
+Mineral,Colorado,2015,70751,9
+Mineral,Colorado,2016,68993,10
+Mineral,Colorado,2017,73103,3
+Mineral,Colorado,2018,77089,51
+Moffat,Colorado,2015,1042946,50
+Moffat,Colorado,2016,1045120,52
+Moffat,Colorado,2017,1026134,37
+Moffat,Colorado,2018,987890,100
+Montezuma,Colorado,2015,1808550,63
+Montezuma,Colorado,2016,1888742,100
+Montezuma,Colorado,2017,2024058,11
+Montezuma,Colorado,2018,1799102,8
+Montrose,Colorado,2015,1301522,52
+Montrose,Colorado,2016,1314618,100
+Montrose,Colorado,2017,1359203,69
+Montrose,Colorado,2018,1413627,65
+Morgan,Colorado,2015,1527903,2
+Morgan,Colorado,2016,1494827,98
+Morgan,Colorado,2017,1559780,98
+Morgan,Colorado,2018,1592344,4
+Otero,Colorado,2015,597938,99
+Otero,Colorado,2016,580665,53
+Otero,Colorado,2017,579125,35
+Otero,Colorado,2018,594219,38
+Ouray,Colorado,2015,214088,1
+Ouray,Colorado,2016,193107,85
+Ouray,Colorado,2017,196871,94
+Ouray,Colorado,2018,200510,29
+Park,Colorado,2015,349626,30
+Park,Colorado,2016,364585,85
+Park,Colorado,2017,383734,92
+Park,Colorado,2018,400803,2
+Phillips,Colorado,2015,198867,37
+Phillips,Colorado,2016,217901,15
+Phillips,Colorado,2017,202394,72
+Phillips,Colorado,2018,213315,44
+Pitkin,Colorado,2015,1810200,61
+Pitkin,Colorado,2016,1864163,95
+Pitkin,Colorado,2017,1871595,74
+Pitkin,Colorado,2018,1900883,81
+Prowers,Colorado,2015,562738,9
+Prowers,Colorado,2016,593064,20
+Prowers,Colorado,2017,541959,70
+Prowers,Colorado,2018,585362,57
+Pueblo,Colorado,2015,5633254,65
+Pueblo,Colorado,2016,5793524,74
+Pueblo,Colorado,2017,5936817,65
+Pueblo,Colorado,2018,6084945,45
+Rio Blanco,Colorado,2015,816272,36
+Rio Blanco,Colorado,2016,762354,20
+Rio Blanco,Colorado,2017,754490,74
+Rio Blanco,Colorado,2018,736488,97
+Rio Grande,Colorado,2015,435710,19
+Rio Grande,Colorado,2016,439984,95
+Rio Grande,Colorado,2017,424683,38
+Rio Grande,Colorado,2018,435646,68
